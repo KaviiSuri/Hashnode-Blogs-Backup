@@ -1,7 +1,7 @@
 ## How I got my first internship by crashing their office!
 
 ## Intro
-Hi, I'm Kavii, an **SDE Intern at [Procol](https://procol.io/)**. I've been freelancing for the last 3 years. You can get to know more about me [here](https://kavii.hashnode.dev/about). 
+Hi, I'm Kavii, an **SDE Intern at [Procol](https://procol.io/)**. I've been freelancing for the last 3 years. You can get to know more about me [here](https://kaviisuri.com/about). 
 
 This story is about how I got my internship by literally crashing their office. No clickbait!
 
