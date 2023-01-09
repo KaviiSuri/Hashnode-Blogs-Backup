@@ -83,7 +83,7 @@ As I said, things don't always go according to plan, and sometimes, it's a good 
 
 ### Automation
 
-Yeah, I already knew bash and python and a dozen more scripting/programming languages. But this year, I actually used them for my work. It was awesome! The things that took hours not took minutes.
+Yeah, I already knew bash and python and a dozen more scripting/programming languages. But this year, I actually used them for my work. It was awesome! The things that took hours now took minutes.
 
 ### Understanding what drives me as an Engineer
 
