@@ -1,6 +1,6 @@
 ---
 title: "You Don't Need to "Learn" Svelte"
-seoTitle: "Mastering JavaScript? You Don't Need to Learn Svelte – Here's Why"
+seoTitle: "You Don't Need to Learn Svelte – Here's Why"
 seoDescription: "Discover the hidden power of Svelte – the JavaScript framework that feels like déjà vu. Uncover how Svelte simplifies web development, reimagining JS."
 datePublished: Mon Sep 04 2023 13:49:32 GMT+0000 (Coordinated Universal Time)
 cuid: clm4xuhs8000809mj2ujpepko
